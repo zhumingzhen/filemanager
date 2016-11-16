@@ -10,7 +10,7 @@ $info = readDirectory($path);
 <html lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Insert title here</title>
+	<title>文件管理</title>
 	<link rel="stylesheet" href="cikonss.css" />
 	<script src="jquery-ui/js/jquery-1.10.2.js"></script>
 	<script src="jquery-ui/js/jquery-ui-1.10.4.custom.js"></script>
